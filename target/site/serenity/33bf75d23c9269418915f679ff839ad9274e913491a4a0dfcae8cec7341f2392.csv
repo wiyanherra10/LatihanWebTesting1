@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"login","As user i have be able to success login","SUCCESS","2023-04-04T22:22:29.426273+07:00[Asia/Jakarta]","0.0","8.12"
+"login","Incorrect username when attempting to login","SUCCESS","2023-04-04T22:22:37.735205+07:00[Asia/Jakarta]","0.0","5.09"
